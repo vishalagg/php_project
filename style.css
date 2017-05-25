@@ -1,0 +1,52 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+  background-color: #8C92AC;
+}
+.container{
+  color:white;
+  background-color: #24333C;
+  width:45%;
+  margin-top: 3%;
+  margin-bottom: 2%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+label{
+  color: white;
+}
+.login{
+  margin-bottom: 2%;
+}
+.signup{
+  width:100%;
+  background-color: #24333C;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.fname{
+  padding-left: 0px;
+}
+.lname{
+  padding-right: 0px;
+}
+#btn1{
+  width:100%;
+}
+.header{
+  width:100%;
+  background-color: #46639E;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.lab{
+  padding-left: 35%;
+}
+.error{
+  color:red;
+  width:33%;
+  background-color: #F2DEDE;
+}
+.success{
+  color:#3C763D;
+  background-color:#DFF0D8;
+  padding-left: 16%;
+}
